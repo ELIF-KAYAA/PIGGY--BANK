@@ -1,0 +1,14 @@
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\obj\Debug\net8.0\kumbara1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\obj\Debug\net8.0\kumbara1.AssemblyInfoInputs.cache
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\obj\Debug\net8.0\kumbara1.AssemblyInfo.cs
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\obj\Debug\net8.0\kumbara1.csproj.CoreCompileInputs.cache
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\bin\Debug\net8.0\kumbara1.exe
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\bin\Debug\net8.0\kumbara1.deps.json
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\bin\Debug\net8.0\kumbara1.runtimeconfig.json
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\bin\Debug\net8.0\kumbara1.dll
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\bin\Debug\net8.0\kumbara1.pdb
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\obj\Debug\net8.0\kumbara1.dll
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\obj\Debug\net8.0\refint\kumbara1.dll
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\obj\Debug\net8.0\kumbara1.pdb
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\obj\Debug\net8.0\kumbara1.genruntimeconfig.cache
+C:\Users\tr2499\source\repos\rezervasyon\kumbara1\obj\Debug\net8.0\ref\kumbara1.dll
